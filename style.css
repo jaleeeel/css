@@ -1,0 +1,31 @@
+body{
+    background-color: bisque;
+    margin: 0px;
+    
+}
+#head1{
+    background-color: rgb(100, 100, 100);
+    text-align: center;
+    padding: 10%;
+    margin: 0%;
+    
+}
+#nav{
+    color: green;
+    text-align: center;
+    background-color: rgb(150, 150, 150);
+    padding: 5%;
+}
+#bot{
+    background-color: rgb(150, 150, 150);
+    padding: 5%;
+    margin: 0px;
+    
+}
+#footer{
+    text-align: center;
+}
+#paragraph{
+    text-align: center;
+    justify-content: center;
+}
