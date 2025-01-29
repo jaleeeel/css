@@ -1,31 +1,25 @@
 body{
-    background-color: bisque;
-    margin: 0px;
-    
+    background-color: #804000;
+    color: black;
 }
-#head1{
-    background-color: rgb(100, 100, 100);
+header{
+    background-color: #804000;
+    color: black;
     text-align: center;
-    padding: 10%;
-    margin: 0%;
-    
+    padding: 10px;
 }
-#nav{
+main{
+    background-color: #F5DEB3;
+    color: black;
+    padding: 20px;
+}
+nav{
+    background-color: #F5DEB3;
     color: green;
     text-align: center;
-    background-color: rgb(150, 150, 150);
-    padding: 5%;
-}
-#bot{
-    background-color: rgb(150, 150, 150);
-    padding: 5%;
-    margin: 0px;
-    
 }
 #footer{
     text-align: center;
-}
-#paragraph{
-    text-align: center;
-    justify-content: center;
+    background-color: #F5DEB3;
+    margin: 0px;
 }
